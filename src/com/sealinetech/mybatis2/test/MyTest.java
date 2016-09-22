@@ -11,11 +11,12 @@ import com.sealinetech.mybatis2.pojo.Person;
 public class MyTest
 {
 
+	//http://wenku.baidu.com/link?url=GdzM8NUb0IG1gAZH5UFlieVvJrhqbRvtsc2vSUlp-zS2-SJknCy4GKUTcr10SH8hmuqikUlbML6b8glDfyriWeZ75EOdVNUSHwTkNH3PcOi
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
         //mybatis的配置文件
-        String resource = "configure.xml";
+        String resource = "mybatis-config.xml";
         
         // 方法一
         //使用类加载器加载mybatis的配置文件（它也加载关联的映射文件）
