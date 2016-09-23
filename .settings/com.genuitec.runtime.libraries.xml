@@ -8,5 +8,15 @@
       <attribute name="source-path-root"/>
       <attribute name="source-path" value="D:\lib\spring\src\org.springframework.core-sources-3.1.1.RELEASE.jar"/>
     </jar-attrs>
+    <jar-attrs id="data/3.1/dist/org.springframework.jdbc-3.1.1.RELEASE.jar">
+      <attribute name="javadoc_location" value="http://static.springsource.org/spring/docs/3.1.x/javadoc-api/"/>
+      <attribute name="source-path-root"/>
+      <attribute name="source-path" value="D:\lib\java\spring\src\org.springframework.jdbc-sources-3.1.1.RELEASE.jar"/>
+    </jar-attrs>
+    <jar-attrs id="data/3.1/dist/org.springframework.web-3.1.1.RELEASE.jar">
+      <attribute name="javadoc_location" value="http://static.springsource.org/spring/docs/3.1.x/javadoc-api/"/>
+      <attribute name="source-path-root"/>
+      <attribute name="source-path" value="D:\lib\java\spring\src\org.springframework.web-sources-3.1.1.RELEASE.jar"/>
+    </jar-attrs>
   </container>
 </project>
